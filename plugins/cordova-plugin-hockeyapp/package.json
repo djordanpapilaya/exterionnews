@@ -1,0 +1,124 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-hockeyapp@2.2.4",
+        "scope": null,
+        "escapedName": "cordova-plugin-hockeyapp",
+        "name": "cordova-plugin-hockeyapp",
+        "rawSpec": "2.2.4",
+        "spec": "2.2.4",
+        "type": "version"
+      },
+      "/Users/djordanpapilaya/afstudeer-tech-projecten/exterion-news"
+    ]
+  ],
+  "_from": "cordova-plugin-hockeyapp@2.2.4",
+  "_id": "cordova-plugin-hockeyapp@2.2.4",
+  "_inCache": true,
+  "_location": "/cordova-plugin-hockeyapp",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-hockeyapp-2.2.4.tgz_1493936879410_0.9643176174722612"
+  },
+  "_npmUser": {
+    "name": "elektrojunge",
+    "email": "bereimol@microsoft.com"
+  },
+  "_npmVersion": "4.0.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-hockeyapp@2.2.4",
+    "scope": null,
+    "escapedName": "cordova-plugin-hockeyapp",
+    "name": "cordova-plugin-hockeyapp",
+    "rawSpec": "2.2.4",
+    "spec": "2.2.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-hockeyapp/-/cordova-plugin-hockeyapp-2.2.4.tgz",
+  "_shasum": "fae947f9b1ea75543ab04b509bdbeefa4ee87e41",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-hockeyapp@2.2.4",
+  "_where": "/Users/djordanpapilaya/afstudeer-tech-projecten/exterion-news",
+  "author": {
+    "name": "Paul Panserrieu",
+    "email": "paul@42loops.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bitstadium/HockeySDK-Cordova/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-hockeyapp",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin for HockeyApp",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fae947f9b1ea75543ab04b509bdbeefa4ee87e41",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-hockeyapp/-/cordova-plugin-hockeyapp-2.2.4.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.2.2": {
+        "cordova": ">=4.2.0",
+        "cordova-android": ">=4.0.0",
+        "cordova-ios": ">=3.8.0"
+      },
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "gitHead": "c8a0d1da5d83ab0fca7d30921a2c2dc5174127ab",
+  "homepage": "https://github.com/bitstadium/HockeySDK-Cordova",
+  "keywords": [
+    "cordova",
+    "hockeyapp",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "42loops",
+      "email": "paul@42loops.com"
+    },
+    {
+      "name": "elektrojunge",
+      "email": "benjamin@hockeyapp.net"
+    },
+    {
+      "name": "geof90",
+      "email": "kogoh@microsoft.com"
+    },
+    {
+      "name": "lostintangent",
+      "email": "joncart@outlook.com"
+    },
+    {
+      "name": "vsmobile",
+      "email": "vscordovatools-admin@microsoft.com"
+    }
+  ],
+  "name": "cordova-plugin-hockeyapp",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitstadium/HockeySDK-Cordova.git"
+  },
+  "scripts": {},
+  "version": "2.2.4"
+}

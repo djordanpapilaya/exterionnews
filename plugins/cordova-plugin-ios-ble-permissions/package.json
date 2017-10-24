@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ios-ble-permissions",
+        "scope": null,
+        "escapedName": "cordova-plugin-ios-ble-permissions",
+        "name": "cordova-plugin-ios-ble-permissions",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/djordanpapilaya/afstudeer-tech-projecten/exterion-news"
+    ]
+  ],
+  "_from": "cordova-plugin-ios-ble-permissions@latest",
+  "_id": "cordova-plugin-ios-ble-permissions@1.0.1",
+  "_inCache": true,
+  "_location": "/cordova-plugin-ios-ble-permissions",
+  "_nodeVersion": "0.12.7",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-ios-ble-permissions-1.0.1.tgz_1478625779332_0.6212693289853632"
+  },
+  "_npmUser": {
+    "name": "tonycurwen",
+    "email": "tony@curwen.net"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ios-ble-permissions",
+    "scope": null,
+    "escapedName": "cordova-plugin-ios-ble-permissions",
+    "name": "cordova-plugin-ios-ble-permissions",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ios-ble-permissions/-/cordova-plugin-ios-ble-permissions-1.0.1.tgz",
+  "_shasum": "92f9fb59fd75094017a2b4e0276dd4ca2d33199b",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ios-ble-permissions",
+  "_where": "/Users/djordanpapilaya/afstudeer-tech-projecten/exterion-news",
+  "author": {
+    "name": "Tony Curwen",
+    "email": "tony@marinedataservices.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cordobo/cordova-plugin-ios-ble-permissions/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ios-ble-permissions",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova / PhoneGap Plugin Permission Settings for NSBluetoothPeripheralUsageDescription in iOS 10 by adding a declaration to the Info.plist file",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "92f9fb59fd75094017a2b4e0276dd4ca2d33199b",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ios-ble-permissions/-/cordova-plugin-ios-ble-permissions-1.0.1.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "37239b585f5669e488ebf245ec657ffe5ef7e743",
+  "homepage": "https://github.com/cordobo/cordova-plugin-ios-ble-permissions#readme",
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "security",
+    "permissions",
+    "nsbluetoothperipheralusagedescription",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tonycurwen",
+      "email": "tony@curwen.net"
+    }
+  ],
+  "name": "cordova-plugin-ios-ble-permissions",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordobo/cordova-plugin-ios-ble-permissions.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
